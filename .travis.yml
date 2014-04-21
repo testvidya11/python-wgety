@@ -12,3 +12,5 @@ install:
 # command to run tests
 
 script: "python run.py"
+notifications:
+  email: vidyac.raghav@gmail.com
