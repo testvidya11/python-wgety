@@ -16,3 +16,4 @@ script: "python run.py"
 notifications:
   email: 
     - vidyac.raghav@gmail.com
+      vidyatest13@gmail.com
