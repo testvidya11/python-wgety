@@ -2,8 +2,6 @@ language: python
 python:
   - "3.3"
   - "3.2"
-  
-
 # command to install dependencies
 install:
    - python setup.py -q install
@@ -14,5 +12,4 @@ install:
 script: "python run.py"
 
 notifications:
-  email: 
-    - vidyac.raghav@gmail.com
+  email:false
