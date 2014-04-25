@@ -11,4 +11,5 @@ install:
 script: "python run.py"
 
 notifications:
-  email:false
+  email:
+    - vidyac.raghav@gmail.com
